@@ -9,12 +9,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": [
-        {
-            "name": "com.theone.ironsource-adquality",
-            "expression": "",
-            "define": "IRONSOURCE_AD_QUALITY"
-        }
-    ],
+    "versionDefines": [],
     "noEngineReferences": false
 }
