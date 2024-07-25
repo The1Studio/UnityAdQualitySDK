@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.theone.ironsource-adquality",
+  "displayName": "Unity AdQuality SDK",
+  "description": "Unity AdQuality SDK",
+  "version": "7.20.3",
+  "unity": "2022.3",
+  "license": "MIT",
+  "author": {
+    "name": "The One Game Studio",
+    "email": "tuha@the1studio.org",
+    "url": "https://theonegamestudio.com/"
+  }
+}
